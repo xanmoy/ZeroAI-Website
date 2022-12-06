@@ -1,0 +1,30 @@
+#topnav {
+    position: relative;
+    left: -90px;
+    background-color: white; 
+    color: #000000; 
+}
+
+.logoimg{
+    padding-top: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+
+.homeimg{
+    visibility: inherit; 
+    opacity: 0.960627; 
+    /* transform: translate3d(0px, -39.4432px, 0px); */
+    height: 600px;
+    width: 900px;
+    padding-top: 80px;
+}
+.autotypeio{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.divtypesmall{
+    padding-left: 70px;
+    padding-right: 70px;
+}
