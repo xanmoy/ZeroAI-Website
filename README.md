@@ -1,3 +1,4 @@
 # ZeroAI-Website
 Official Website of ZeroAI
-https://zeroaifoundation.github.io/ZeroAI-Website/index.html
+<a href="[https://www.w3schools.com](https://zeroaifoundation.github.io/ZeroAI-Website/index.html)">Visit ZeroAI</a>
+
