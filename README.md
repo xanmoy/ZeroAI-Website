@@ -1,4 +1,4 @@
-![ZeroAI]([https://zeroaifoundation.github.io/ZeroAI-Website/components/images/zeroai.png])
+![ZeroAI](https://zeroaifoundation.github.io/ZeroAI-Website/components/images/zeroai.png)
 
 
 
