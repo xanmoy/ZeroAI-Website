@@ -3,7 +3,7 @@ Official Website of
 [ZeroAI](https://zeroaifoundation.github.io/ZeroAI-Website/index.html)
 
 
-![ZeroAI]([https://drive.google.com/file/d/1uTExFfvDjW9eP-K8UscP29gCWOHmUfYK/view?usp=share_link](https://drive.google.com/file/d/1uTExFfvDjW9eP-K8UscP29gCWOHmUfYK/view?usp=share_link))
+![ZeroAI]([https://zeroaifoundation.github.io/ZeroAI-Website/components/images/zeroai.png])
 
 
 
