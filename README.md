@@ -3,7 +3,7 @@ Official Website of
 [ZeroAI](https://zeroaifoundation.github.io/ZeroAI-Website/index.html)
 
 
-![ZeroAI]([https://zeroaifoundation.github.io/ZeroAI-Website/components/images/zeroai.png])
+![ZeroAI](https://zeroaifoundation.github.io/ZeroAI-Website/components/images/zeroai.png)
 
 
 
@@ -15,4 +15,4 @@ Official Website of
 *ZeroAI is free and open source software and supports the right to read, distribute and repair.*
 
 
-![Alt](https://repobeats.axiom.co/api/embed/d2897eb81239aab92e1394b6d833b19c8dbac24c.svg "Repobeats analytics image")
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/d2897eb81239aab92e1394b6d833b19c8dbac24c.svg "Repobeats analytics image") -->
