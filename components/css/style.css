@@ -28,3 +28,20 @@
     padding-left: 70px;
     padding-right: 70px;
 }
+
+h1 {
+    font-family: 'Zen Dots', cursive;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+h5 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: x-large;
+}
+
+a {
+    font-family: 'Orbitron', sans-serif;
+    font-size: smaller;
+    
+}
